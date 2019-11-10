@@ -1,0 +1,25 @@
+.smartcar-ui .app-logo {
+  height: 50px;
+  float: left;
+}
+.smartcar-ui .main-header {
+  background-color:black;
+  height: 90px;
+  padding: 20px;
+  color: white;
+}
+.smartcar-ui .headertitle {
+  font-size: 24px;
+  float: left;
+  font-weight: bold;
+  margin-top: 10px;
+  padding-left: 5px;
+}
+.headersubtitle{
+  text-align: center;
+  float: right;
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 10px;
+  padding-left: 5px;
+}
