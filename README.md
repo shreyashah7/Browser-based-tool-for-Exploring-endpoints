@@ -4,12 +4,12 @@ and produce an html component for sending requests to that endpoint.
 
 ## Installation Steps
 
-# 1. Unzip the project folder.
-# 2. Check the Node installation on your machine.
-# 3. Move to the project folder where package.json resides.
-# 4. Perform npm install to install all the required dependency packages.
-# 5. Once all done, Run npm start command to run the application.
-# 6. Application will be running on port 3000. Click http://localhost:3000.
+#### 1. Unzip the project folder.
+#### 2. Check the Node installation on your machine.
+#### 3. Move to the project folder where package.json resides.
+#### 4. Perform npm install to install all the required dependency packages.
+#### 5. Once all done, Run npm start command to run the application.
+#### 6. Application will be running on port 3000. Click http://localhost:3000.
 
 ## Folder Structure
 
